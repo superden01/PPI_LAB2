@@ -1,0 +1,31 @@
+C:\Users\denis\Desktop\Laba 2\Laba 2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\denis\Desktop\Laba 2\Laba 2\bin\Debug\net7.0\appsettings.json
+C:\Users\denis\Desktop\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.staticwebassets.runtime.json
+C:\Users\denis\Desktop\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.exe
+C:\Users\denis\Desktop\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.deps.json
+C:\Users\denis\Desktop\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.runtimeconfig.json
+C:\Users\denis\Desktop\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.dll
+C:\Users\denis\Desktop\Laba 2\Laba 2\bin\Debug\net7.0\Laba 2.pdb
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.AssemblyInfo.cs
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.RazorAssemblyInfo.cache
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.RazorAssemblyInfo.cs
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\staticwebassets\msbuild.Laba 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Laba 2.props
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Laba 2.props
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Laba 2.props
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\scopedcss\bundle\Laba 2.styles.css
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\scopedcss\projectbundle\Laba 2.bundle.scp.css
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.dll
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\refint\Laba 2.dll
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.pdb
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\Laba 2.genruntimeconfig.cache
+C:\Users\denis\Desktop\Laba 2\Laba 2\obj\Debug\net7.0\ref\Laba 2.dll
